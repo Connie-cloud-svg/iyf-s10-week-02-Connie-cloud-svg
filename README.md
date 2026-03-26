@@ -44,7 +44,7 @@ three separate pages, designed mobile-first with an Emerald Dev colour theme.
   wrong repository — solved by uploading files directly through GitHub
 
 ## Screenshots (optional)
-![Portfolio Home Page](Whatsapp/portfolio.jpeg)
+![Portfolio Home Page](Whatsapp/portfolio.JPG)
 
 ## Live Demo (if deployed)
 https://connie-cloud-svg.github.io/iyf-s10-week-02-Connie-cloud-svg/
