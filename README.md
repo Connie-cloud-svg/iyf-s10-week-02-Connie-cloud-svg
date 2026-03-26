@@ -43,8 +43,10 @@ three separate pages, designed mobile-first with an Emerald Dev colour theme.
 - Git push not working because the project folder was nested inside the
   wrong repository — solved by uploading files directly through GitHub
 
-## Screenshots (optional)
+## Screenshots 
 ![Portfolio Home Page](Whatsapp/portfolio.JPG)
+![Projects Page](Whatsapp/projects.JPG)
+![Contact Page](Whatsapp/contact.JPG)
 
 ## Live Demo (if deployed)
 https://connie-cloud-svg.github.io/iyf-s10-week-02-Connie-cloud-svg/
