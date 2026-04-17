@@ -48,5 +48,5 @@ three separate pages, designed mobile-first with an Emerald Dev colour theme.
 ![Projects Page](images/projects.JPG)
 ![Contact Page](images/contact.JPG)
 
-## Live Demo (if deployed)
+## Live Demo 
 https://connie-cloud-svg.github.io/iyf-s10-week-02-Connie-cloud-svg/
